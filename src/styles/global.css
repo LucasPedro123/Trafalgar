@@ -1,0 +1,29 @@
+:root{
+    /* Colors */
+    --primary-gradient: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    --primary: #458FF6;
+    --white: #fff;
+    --dark: #000;
+    --label: #233348;
+    --dark-gray: #1F1534;
+    --gray: #7D7987;
+
+    /* Font Family */
+    --font-family: 'Muli';
+
+    /* Font Size */
+    --subHead100: 16px;
+    --subHead200: 18px;
+    --subHead300: 20px;
+    --subHead300: 22px;
+    --subHead400: 24px;
+    --head100: 48px;
+    --head200: 36px;
+
+    /* Font Weight */
+    --weight-regular: 400;
+    --weight-bold: 700;
+
+    /* Transitions */
+    --transition-1: 500ms ease;
+}
